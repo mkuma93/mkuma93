@@ -1,56 +1,29 @@
-# AI-System Strategist & Architect
+# Scalable AI-Decision Systems Across Domains
 
-I design and implement **scalable decision systems** that integrate uncertainty quantification, temporal forecasting, document generation, and governance frameworks across manufacturing, pharmaceutical, and analytical domains.
+## Portfolio
 
-## Core Strategic Pillars
+### Decision Confidence Routing
+Autonomous routing systems for uncertainty-based delegation across classification, LLM reasoning, and human intervention.
 
-### 🎯 **Decision Confidence Architecture**
-Autonomous decision routing systems that strategically quantify uncertainty to delegate between AI classification, LLM reasoning, and human intervention.
-- **Calibrated Eye** (public/core): Visual inspection decision routing with confidence zones
-- Learn more: [calibrated-eye-core](https://github.com/mkuma93/calibrated-eye-core)
-
-### 📋 **Regulatory Governance Architecture**  
-Strategic workflows for AI-assisted compliance and document generation in highly regulated industries.
-- **Pharma Regulatory Authoring** (public/core): LLM-driven CTD generation with validation pipelines
-- Learn more: [pharma-regulatory-authoring-core](https://github.com/mkuma93/pharma-regulatory-authoring-core)
-
-### 📈 **Temporal Forecasting Architecture**
-Interpretable, modular systems for multi-horizon predictions with strategic decomposition and attention mechanisms.
-- **DeepSequence**: TabNet-based feature extraction with cross-interaction forecasting
-- **DeepSequence Hierarchical Attention**: Hierarchical decomposition for explainable predictions
-- Learn more: [DeepSequence](https://github.com/mkuma93/DeepSequence)
+- **Calibrated Eye** (Public): [github.com/mkuma93/calibrated-eye](https://github.com/mkuma93/calibrated-eye)
+- **Calibrated Eye Core** (Private): [github.com/mkuma93/calibrated-eye-core](https://github.com/mkuma93/calibrated-eye-core)
 
 ---
 
-## Design Philosophy
+### Regulatory Document Generation & Validation  
+Structured workflows for AI-assisted compliance document authoring with governance patterns in pharmaceutical domains.
 
-Each system demonstrates core architectural principles:
-- **Uncertainty quantification** as a first-class citizen in decision design
-- **Modularity & decomposition** for interpretability at scale  
-- **Governance-first** patterns for regulated domains
-- **Strategic layering** between autonomous and human-in-the-loop workflows
+- **Pharma Regulatory Authoring** (Public): [github.com/mkuma93/pharma-regulatory-authoring](https://github.com/mkuma93/pharma-regulatory-authoring)
+- **Pharma Regulatory Authoring Core** (Private): [github.com/mkuma93/pharma-regulatory-authoring-core](https://github.com/mkuma93/pharma-regulatory-authoring-core)
 
 ---
 
-## Portfolio Overview
+### Temporal Forecasting & Interpretability
+Modular systems for multi-horizon predictions combining TabNet feature extraction, attention mechanisms, and decomposition strategies.
 
-| System | Domain | Strategic Focus |
-|--------|--------|-----------------|
-| **Calibrated Eye** | Visual Inspection | Uncertainty-based decision routing |
-| **Pharma Regulatory** | Document Generation | Governance & compliance workflows |
-| **DeepSequence** | Time Series | Interpretable multi-horizon forecasting |
-
-All systems are built under the umbrella of **Scalable AI-Decision Systems**, designed for cross-domain applicability.
+- **DeepSequence**: [github.com/mkuma93/DeepSequence](https://github.com/mkuma93/DeepSequence)
+- **DeepSequence Hierarchical Attention**: [github.com/mkuma93/deepsequence-hierarchical-attention](https://github.com/mkuma93/deepsequence-hierarchical-attention)
 
 ---
 
-## Let's Connect
-
-Interested in AI architecture, decision systems design, or scalable ML governance? 
-
-- 💼 LinkedIn: [mritunjay-kumar](https://linkedin.com/in/mritunjay-kumar)
-- 📧 Email: mritunjay.kmr1@gmail.com
-
----
-
-*"Architecture precedes implementation. Strategy precedes execution."*
+All systems demonstrate strategic patterns: uncertainty quantification as core design, modular decomposition for interpretability, governance-first architectures, and layering between autonomous and human-in-the-loop workflows.
