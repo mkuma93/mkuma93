@@ -1,10 +1,8 @@
 # Mritunjay Kumar
 
-## AI Systems Strategist | Enterprise AI Architect
-
 Building enterprise AI systems across forecasting, document intelligence, and multimodal workflows.
 
-My work focuses on governed intelligence systems: architectures that combine autonomous reasoning, deterministic validation, and human escalation so AI can operate safely in business-critical environments.
+Focused on governed intelligence systems that combine autonomous reasoning, deterministic validation, and human escalation so AI can operate safely in business-critical environments.
 
 ## What I Build
 
