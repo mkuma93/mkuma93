@@ -1,6 +1,6 @@
-# Scalable AI-Decision Systems Across Domains
+# Mritunjay
 
-## Portfolio
+## Scalable AI-Decision Systems Across Domains
 
 ### Decision Confidence Routing
 Autonomous routing systems for uncertainty-based delegation across classification, LLM reasoning, and human intervention.
