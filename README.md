@@ -60,25 +60,3 @@ The repositories below are not disconnected experiments. Together they show a co
 **Business outcome:** improve service levels while reducing stockout risk and excess carrying cost.
 
 - **MeMoa** (Private): [github.com/mkuma93/MeMoa](https://github.com/mkuma93/MeMoa)
-
----
-
-## Architectural Identity
-
-Across domains, my systems tend to share the same design patterns:
-
-- Uncertainty quantification as a first-class design primitive
-- Governance-first architecture with validation and traceability controls
-- Risk-based routing between autonomous AI and human review
-- Modular decomposition for explainability, maintainability, and scale
-- Business-outcome orientation instead of model-centric storytelling
-
-## For Reviewers
-
-If you are evaluating this portfolio, the fastest way to understand my identity is:
-
-1. Start with **Calibrated Eye** for confidence-aware multimodal decisioning.
-2. Review **Pharma Regulatory Authoring** for governed document intelligence and orchestration.
-3. Review **DeepSequence** for interpretable forecasting architecture.
-
-These projects reflect the same core thesis: enterprise AI systems should be designed not only to generate outputs, but to manage uncertainty, enforce control, and create measurable operational value.
