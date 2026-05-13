@@ -10,6 +10,13 @@ Autonomous routing systems for uncertainty-based delegation across classificatio
 
 ---
 
+### Inventory Decision Support
+Optimization and decision-support systems for inventory management with predictive and rule-based workflows.
+
+- **MeMoa** (Private): [github.com/mkuma93/MeMoa](https://github.com/mkuma93/MeMoa)
+
+---
+
 ### Regulatory Document Generation & Validation  
 Structured workflows for AI-assisted compliance document authoring with governance patterns in pharmaceutical domains.
 
